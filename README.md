@@ -2,6 +2,8 @@
 
 > Early Project / Legacy Repository
 
+This project is part of my early programming journey. It is preserved as a record of my technical evolution and does not represent my current coding standards.
+
 ## Features
 
 - Multiple radar locations
